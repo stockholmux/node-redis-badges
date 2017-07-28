@@ -1,0 +1,18 @@
+{
+  "name": "node-redis-badges",
+  "version": "1.0.0",
+  "description": "Badges with Redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle J. Davis",
+  "license": "MIT",
+  "dependencies": {
+    "date-utils": "^1.2.21",
+    "express": "^4.15.3",
+    "redis": "^2.7.1",
+    "rk": "^1.0.0",
+    "yargs": "^8.0.2"
+  }
+}
